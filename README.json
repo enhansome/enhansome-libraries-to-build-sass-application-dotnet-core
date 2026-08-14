@@ -28,7 +28,7 @@
             "last_commit": "2026-01-29T14:44:09Z",
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19632
+            "stars": 19631
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T04:30:33Z",
+            "last_commit": "2026-08-13T22:31:04Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20451
+            "stars": 20458
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-11T04:30:40Z",
             "owner": "fission",
             "repo": "fission",
-            "stars": 8895
+            "stars": 8896
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7795
+            "stars": 7796
           }
         },
         {
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T14:45:38Z",
+            "last_commit": "2026-08-14T09:04:19Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8153
+            "stars": 8154
           }
         },
         {
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T20:50:46Z",
+            "last_commit": "2026-08-13T20:48:31Z",
             "owner": "Finbuckle",
             "repo": "Finbuckle.MultiTenant",
-            "stars": 1616
+            "stars": 1617
           }
         },
         {
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T01:33:47Z",
+            "last_commit": "2026-08-14T07:03:12Z",
             "owner": "dotnet",
             "repo": "BenchmarkDotNet",
-            "stars": 11471
+            "stars": 11473
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-12T20:47:55Z",
             "owner": "NLog",
             "repo": "NLog",
-            "stars": 6544
+            "stars": 6545
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-06-12T20:54:28Z",
             "owner": "thepirat000",
             "repo": "Audit.NET",
-            "stars": 2640
+            "stars": 2641
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T11:40:42Z",
+            "last_commit": "2026-08-13T16:04:52Z",
             "owner": "StackExchange",
             "repo": "StackExchange.Redis",
             "stars": 6194
@@ -406,7 +406,7 @@
             "last_commit": "2026-02-18T08:21:59Z",
             "owner": "MichaCo",
             "repo": "CacheManager",
-            "stars": 2419
+            "stars": 2420
           }
         },
         {
@@ -451,7 +451,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T10:00:44Z",
+            "last_commit": "2026-08-13T11:41:03Z",
             "owner": "ThreeMammals",
             "repo": "Ocelot",
             "stars": 8714
@@ -488,7 +488,7 @@
             "last_commit": "2026-08-11T15:09:55Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25872
+            "stars": 25877
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2026-06-12T13:47:14Z",
             "owner": "jstedfast",
             "repo": "MailKit",
-            "stars": 6839
+            "stars": 6840
           }
         },
         {
@@ -688,7 +688,7 @@
             "last_commit": "2026-01-19T17:21:15Z",
             "owner": "jbogard",
             "repo": "Respawn",
-            "stars": 3016
+            "stars": 3017
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2022-12-05T15:17:31Z",
             "owner": "hallatore",
             "repo": "Netling",
-            "stars": 1348
+            "stars": 1347
           }
         },
         {
@@ -803,7 +803,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T05:54:24Z",
+            "last_commit": "2026-08-14T06:10:57Z",
             "owner": "mikependon",
             "repo": "RepoDB",
             "stars": 1888
@@ -865,10 +865,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:46:20Z",
+            "last_commit": "2026-08-14T01:12:07Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32917
+            "stars": 32934
           }
         },
         {
@@ -893,7 +893,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T09:14:44Z",
+            "last_commit": "2026-08-14T09:40:35Z",
             "owner": "mganss",
             "repo": "HtmlSanitizer",
             "stars": 1707
@@ -992,7 +992,7 @@
             "last_commit": "2026-07-02T13:51:06Z",
             "owner": "LuckyPennySoftware",
             "repo": "MediatR",
-            "stars": 11856
+            "stars": 11855
           }
         },
         {
@@ -1017,7 +1017,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T02:14:33Z",
+            "last_commit": "2026-08-14T10:49:12Z",
             "owner": "elsa-workflows",
             "repo": "elsa-core",
             "stars": 7850
@@ -1034,7 +1034,7 @@
             "last_commit": "2026-06-21T10:29:45Z",
             "owner": "RicoSuter",
             "repo": "NSwag",
-            "stars": 7356
+            "stars": 7357
           }
         },
         {
@@ -1045,10 +1045,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-07T12:00:28Z",
+            "last_commit": "2026-08-14T07:14:51Z",
             "owner": "MessagePack-CSharp",
             "repo": "MessagePack-CSharp",
-            "stars": 6769
+            "stars": 6770
           }
         },
         {
@@ -1059,10 +1059,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T09:51:05Z",
+            "last_commit": "2026-08-14T07:51:09Z",
             "owner": "kurrent-io",
             "repo": "KurrentDB",
-            "stars": 5837
+            "stars": 5838
           }
         },
         {
@@ -1087,7 +1087,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T08:54:02Z",
+            "last_commit": "2026-08-14T10:49:11Z",
             "owner": "protobuf-net",
             "repo": "protobuf-net",
             "stars": 4965
@@ -1132,7 +1132,7 @@
             "last_commit": "2026-07-16T07:35:00Z",
             "owner": "nodatime",
             "repo": "nodatime",
-            "stars": 2994
+            "stars": 2995
           }
         },
         {
@@ -1160,7 +1160,7 @@
             "last_commit": "2026-06-30T00:44:08Z",
             "owner": "zzzprojects",
             "repo": "html-agility-pack",
-            "stars": 2846
+            "stars": 2847
           }
         },
         {
@@ -1171,7 +1171,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T09:33:42Z",
+            "last_commit": "2026-08-13T21:39:49Z",
             "owner": "Particular",
             "repo": "NServiceBus",
             "stars": 2167
@@ -1185,7 +1185,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T15:17:12Z",
+            "last_commit": "2026-08-13T14:47:40Z",
             "owner": "FoundatioFx",
             "repo": "Foundatio",
             "stars": 2096
@@ -1216,7 +1216,7 @@
             "last_commit": "2026-04-03T00:52:53Z",
             "owner": "NRules",
             "repo": "NRules",
-            "stars": 1647
+            "stars": 1648
           }
         },
         {
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:05:58.625Z",
+    "last_updated": "2026-08-14T11:03:29.896Z",
     "original_repository": "bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core",
     "original_repository_sha": "aa235f7ef638598af54e8bab1580fb1901bbcfd9",
     "enhanced_repository": "enhansome/enhansome-libraries-to-build-sass-application-dotnet-core",
