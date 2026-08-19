@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82227585,
             "language": null,
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48457
+            "stars": 48459
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169371413,
             "language": null,
             "last_commit": "2026-01-29T14:44:09Z",
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19631
+            "stars": 19633
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229597691,
             "language": null,
             "last_commit": "2021-12-18T07:36:41Z",
             "owner": "bharatdwarkani",
@@ -49,7 +52,7 @@
       "title": "Architecture references"
     },
     {
-      "description": "",
+      "description": "Also, I suggest watching this video on clean architecture by Jason Taylor.",
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213460285,
             "language": "C#",
             "last_commit": "2026-08-16T18:39:03Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20463
+            "stars": 20467
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66050533,
             "language": "Go",
-            "last_commit": "2026-08-18T02:00:07Z",
+            "last_commit": "2026-08-18T16:32:45Z",
             "owner": "fission",
             "repo": "fission",
-            "stars": 8899
+            "stars": 8902
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 778828,
             "language": "C#",
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7798
+            "stars": 7797
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25810742,
             "language": "C#",
             "last_commit": "2026-08-11T23:12:02Z",
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3484
+            "stars": 3485
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84050925,
             "language": "TypeScript",
             "last_commit": "2022-09-07T09:15:09Z",
             "owner": "ngx-rocket",
@@ -125,7 +133,7 @@
       "title": "Project templates / Frameworks"
     },
     {
-      "description": "",
+      "description": "You can also check out blog posts on multitenancy by Ben Foster or Gunnar Peipman. These blogs will help you in setting up multitenancy in your project.",
       "items": [
         {
           "node_type": "item",
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-18T09:52:38Z",
+            "last_commit": "2026-08-19T09:20:25Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8155
+            "stars": 8157
           }
         },
         {
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102116094,
             "language": "C#",
             "last_commit": "2026-08-18T03:33:43Z",
             "owner": "Finbuckle",
@@ -162,24 +172,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9051544,
             "language": "C#",
             "last_commit": "2023-08-15T22:15:13Z",
             "owner": "saaskit",
             "repo": "saaskit",
             "stars": 1126
           }
-        },
-        {
-          "node_type": "item",
-          "title": "cloudscribe",
-          "description": "cloudscribe is a related set of projects and components for building cross platform web applications on ASP.NET Core. Get the big picture at cloudscribe.com",
-          "children": []
         }
       ],
       "title": "Multitenancy"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -188,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12191244,
             "language": "C#",
             "last_commit": "2026-08-16T16:57:46Z",
             "owner": "dotnet",
             "repo": "BenchmarkDotNet",
-            "stars": 11473
+            "stars": 11474
           }
         },
         {
@@ -202,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8198511,
             "language": "C#",
             "last_commit": "2026-07-31T10:58:30Z",
             "owner": "serilog",
             "repo": "serilog",
-            "stars": 8030
+            "stars": 8032
           }
         },
         {
@@ -216,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5780416,
             "language": "C#",
             "last_commit": "2026-08-16T22:46:07Z",
             "owner": "NLog",
             "repo": "NLog",
-            "stars": 6546
+            "stars": 6547
           }
         },
         {
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11906821,
             "language": "C#",
             "last_commit": "2025-08-03T00:31:11Z",
             "owner": "MiniProfiler",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108589744,
             "language": "C#",
             "last_commit": "2024-03-14T06:29:09Z",
             "owner": "benaadams",
@@ -258,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65263589,
             "language": "C#",
-            "last_commit": "2026-08-17T22:59:59Z",
+            "last_commit": "2026-08-19T05:26:09Z",
             "owner": "thepirat000",
             "repo": "Audit.NET",
-            "stars": 2642
+            "stars": 2644
           }
         },
         {
@@ -272,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32881114,
             "language": "C#",
             "last_commit": "2024-04-11T13:14:54Z",
             "owner": "prometheus-net",
@@ -286,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191358373,
             "language": "C#",
             "last_commit": "2026-02-23T17:37:46Z",
             "owner": "skoruba",
@@ -297,7 +310,7 @@
       "title": "Logging / Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -306,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 145919860,
             "language": "HTML",
             "last_commit": "2021-08-01T00:12:46Z",
             "owner": "brunobritodev",
@@ -320,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190609513,
             "language": "C#",
             "last_commit": "2021-10-12T08:54:22Z",
             "owner": "JonPSmith",
@@ -334,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46652227,
             "language": null,
             "last_commit": "2025-03-06T09:29:02Z",
             "owner": "DuendeArchive",
@@ -345,7 +361,7 @@
       "title": "Autentication / Authorization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -354,8 +370,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192571298,
             "language": "C#",
-            "last_commit": "2026-08-16T15:04:38Z",
+            "last_commit": "2026-08-19T06:44:01Z",
             "owner": "microsoft",
             "repo": "FeatureManagement-Dotnet",
             "stars": 1181
@@ -368,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15284007,
             "language": "C#",
             "last_commit": "2024-01-18T15:40:49Z",
             "owner": "valdisiljuconoks",
@@ -379,7 +397,7 @@
       "title": "Feature Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -388,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17748183,
             "language": "C#",
-            "last_commit": "2026-08-18T10:16:04Z",
+            "last_commit": "2026-08-19T06:36:09Z",
             "owner": "StackExchange",
             "repo": "StackExchange.Redis",
-            "stars": 6193
+            "stars": 6194
           }
         },
         {
@@ -402,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32676553,
             "language": "C#",
             "last_commit": "2026-02-18T08:21:59Z",
             "owner": "MichaCo",
@@ -416,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78269743,
             "language": "C#",
             "last_commit": "2025-06-30T13:38:46Z",
             "owner": "KevinDockx",
@@ -427,7 +448,7 @@
       "title": "Caching"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -436,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245235133,
             "language": "C#",
             "last_commit": "2026-08-17T05:05:52Z",
             "owner": "dotnet",
@@ -450,8 +472,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62256097,
             "language": "C#",
-            "last_commit": "2026-08-16T16:12:09Z",
+            "last_commit": "2026-08-18T18:56:50Z",
             "owner": "ThreeMammals",
             "repo": "Ocelot",
             "stars": 8715
@@ -464,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 149996573,
             "language": "C#",
             "last_commit": "2020-10-23T13:57:56Z",
             "owner": "ProxyKit",
@@ -475,7 +499,7 @@
       "title": "API Gateway / Reverse Proxy"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -484,11 +508,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45250726,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:59:33Z",
+            "last_commit": "2026-08-18T16:30:59Z",
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25878
+            "stars": 25882
           }
         },
         {
@@ -498,8 +523,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32304121,
             "language": "C#",
-            "last_commit": "2026-08-12T10:45:54Z",
+            "last_commit": "2026-08-19T10:01:31Z",
             "owner": "domaindrivendev",
             "repo": "Swashbuckle.AspNetCore",
             "stars": 5495
@@ -512,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217668799,
             "language": "C#",
             "last_commit": "2019-10-26T13:35:16Z",
             "owner": "bharatdwarkani",
@@ -523,7 +550,7 @@
       "title": "Documentation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -532,11 +559,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11920542,
             "language": "C#",
             "last_commit": "2026-07-20T12:19:41Z",
             "owner": "HangfireIO",
             "repo": "Hangfire",
-            "stars": 10117
+            "stars": 10118
           }
         },
         {
@@ -546,11 +574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1208824,
             "language": "C#",
             "last_commit": "2026-08-15T22:03:49Z",
             "owner": "quartznet",
             "repo": "quartznet",
-            "stars": 7066
+            "stars": 7067
           }
         },
         {
@@ -560,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278154328,
             "language": "C#",
             "last_commit": "2024-02-17T16:33:19Z",
             "owner": "runlyio",
@@ -571,7 +601,7 @@
       "title": "Schedulers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -580,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14999623,
             "language": "C#",
             "last_commit": "2026-08-17T14:17:34Z",
             "owner": "jstedfast",
@@ -594,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 603405,
             "language": "C#",
             "last_commit": "2024-03-30T12:59:11Z",
             "owner": "lukencode",
@@ -608,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6433838,
             "language": "C#",
             "last_commit": "2026-08-15T21:05:44Z",
             "owner": "jstedfast",
@@ -619,7 +652,7 @@
       "title": "Mail"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -628,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3689718,
             "language": "C#",
             "last_commit": "2026-08-17T13:42:14Z",
             "owner": "devlooped",
@@ -642,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9891249,
             "language": "C#",
             "last_commit": "2026-08-17T16:34:28Z",
             "owner": "xunit",
@@ -656,8 +691,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11718424,
             "language": "C#",
-            "last_commit": "2026-08-18T09:13:29Z",
+            "last_commit": "2026-08-19T07:42:23Z",
             "owner": "fluentassertions",
             "repo": "fluentassertions",
             "stars": 3816
@@ -670,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4475900,
             "language": "C#",
             "last_commit": "2026-07-31T16:10:42Z",
             "owner": "AutoFixture",
@@ -684,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31019968,
             "language": "C#",
             "last_commit": "2026-01-19T17:21:15Z",
             "owner": "jbogard",
@@ -698,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10510374,
             "language": "C#",
             "last_commit": "2022-12-05T15:17:31Z",
             "owner": "hallatore",
@@ -712,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7805871,
             "language": "C#",
             "last_commit": "2025-10-07T08:56:45Z",
             "owner": "approvals",
@@ -726,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165853566,
             "language": "C#",
             "last_commit": "2026-02-24T14:47:00Z",
             "owner": "SwissLife-OSS",
@@ -740,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200729032,
             "language": "C#",
             "last_commit": "2026-07-05T09:32:19Z",
             "owner": "SwissLife-OSS",
@@ -754,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 223108770,
             "language": "C#",
             "last_commit": "2025-09-04T10:13:37Z",
             "owner": "SwissLife-OSS",
@@ -768,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1179444765,
             "language": "C#",
             "last_commit": "2026-03-14T09:46:17Z",
             "owner": "tomasbruckner",
@@ -779,7 +823,7 @@
       "title": "Unit or Integration Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -788,11 +832,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1613345,
             "language": "C#",
-            "last_commit": "2026-08-18T08:56:43Z",
+            "last_commit": "2026-08-18T18:54:33Z",
             "owner": "DapperLib",
             "repo": "Dapper",
-            "stars": 18364
+            "stars": 18366
           }
         },
         {
@@ -802,11 +847,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128952316,
             "language": "C#",
-            "last_commit": "2026-08-17T05:31:59Z",
+            "last_commit": "2026-08-19T06:13:46Z",
             "owner": "mikependon",
             "repo": "RepoDB",
-            "stars": 1891
+            "stars": 1892
           }
         },
         {
@@ -816,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4055382,
             "language": "C#",
             "last_commit": "2026-05-29T13:20:32Z",
             "owner": "jonwagner",
@@ -830,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55711556,
             "language": "C#",
             "last_commit": "2026-08-11T18:20:11Z",
             "owner": "zzzprojects",
@@ -844,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47482714,
             "language": "C#",
             "last_commit": "2026-01-27T02:02:55Z",
             "owner": "tghamm",
@@ -855,7 +904,7 @@
       "title": "ORM"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -864,11 +913,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162723104,
             "language": "Python",
             "last_commit": "2026-08-17T22:14:12Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32917
+            "stars": 32924
           }
         },
         {
@@ -878,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63812838,
             "language": "C#",
             "last_commit": "2024-07-26T11:58:58Z",
             "owner": "stefanprodan",
@@ -892,8 +943,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10942116,
             "language": "C#",
-            "last_commit": "2026-08-18T09:14:31Z",
+            "last_commit": "2026-08-18T15:43:25Z",
             "owner": "mganss",
             "repo": "HtmlSanitizer",
             "stars": 1708
@@ -906,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29354498,
             "language": "C#",
             "last_commit": "2023-03-03T06:09:18Z",
             "owner": "NWebsec",
@@ -920,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168680524,
             "language": null,
             "last_commit": "2026-02-27T05:35:57Z",
             "owner": "guardrailsio",
@@ -934,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79739234,
             "language": "C#",
             "last_commit": "2025-03-27T15:19:33Z",
             "owner": "juunas11",
@@ -945,7 +1000,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -954,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50729281,
             "language": "C#",
             "last_commit": "2020-07-11T20:00:48Z",
             "owner": "neoKushan",
@@ -968,366 +1024,387 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75499108,
             "language": "C#",
             "last_commit": "2023-06-27T14:57:59Z",
             "owner": "novotnyllc",
             "repo": "bc-csharp",
             "stars": 181
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MediatR",
+              "description": "Simple, unambitious mediator implementation in .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17369361,
+                "language": "C#",
+                "last_commit": "2026-07-02T13:51:06Z",
+                "owner": "LuckyPennySoftware",
+                "repo": "MediatR",
+                "stars": 11852
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoMapper",
+              "description": "AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505380,
+                "language": "C#",
+                "last_commit": "2026-07-02T13:51:10Z",
+                "owner": "LuckyPennySoftware",
+                "repo": "AutoMapper",
+                "stars": 10193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elsa-core",
+              "description": "A .NET Standard 2.0 Workflows Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151148482,
+                "language": "C#",
+                "last_commit": "2026-08-18T22:12:22Z",
+                "owner": "elsa-workflows",
+                "repo": "elsa-core",
+                "stars": 7858
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NSwag",
+              "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41822320,
+                "language": "C#",
+                "last_commit": "2026-06-21T10:29:45Z",
+                "owner": "RicoSuter",
+                "repo": "NSwag",
+                "stars": 7358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MessagePack-CSharp",
+              "description": "Extremely Fast MessagePack Serializer for C#",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81770291,
+                "language": "C#",
+                "last_commit": "2026-08-14T07:14:51Z",
+                "owner": "MessagePack-CSharp",
+                "repo": "MessagePack-CSharp",
+                "stars": 6772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EventStore",
+              "description": "The open-source, functional database with Complex Event Processing in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5844474,
+                "language": "C#",
+                "last_commit": "2026-08-19T09:49:35Z",
+                "owner": "kurrent-io",
+                "repo": "KurrentDB",
+                "stars": 5843
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CliWrap",
+              "description": "CliWrap is a library for interacting with command line executables in a functional manner. It provides a convenient model for launching external processes, redirecting inputs and outputs, awaiting completion, and handling cancellation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86743880,
+                "language": "C#",
+                "last_commit": "2026-08-01T14:34:04Z",
+                "owner": "Tyrrrz",
+                "repo": "CliWrap",
+                "stars": 4996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "protobuf-net",
+              "description": "Protocol Buffers library for idiomatic .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20878802,
+                "language": "C#",
+                "last_commit": "2026-08-19T10:28:24Z",
+                "owner": "protobuf-net",
+                "repo": "protobuf-net",
+                "stars": 4967
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cake-build",
+              "description": "Cake (C# Make) is a cross platform build automation system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20094029,
+                "language": "C#",
+                "last_commit": "2026-07-17T13:09:54Z",
+                "owner": "cake-build",
+                "repo": "cake",
+                "stars": 4184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluentFTP",
+              "description": "An FTP and FTPS client for .NET & .NET Standard, optimized for speed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72268885,
+                "language": "C#",
+                "last_commit": "2026-05-27T21:47:27Z",
+                "owner": "robinrodricks",
+                "repo": "FluentFTP",
+                "stars": 3391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nodatime",
+              "description": "A better date and time API for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32252455,
+                "language": "C#",
+                "last_commit": "2026-07-16T07:35:00Z",
+                "owner": "nodatime",
+                "repo": "nodatime",
+                "stars": 2996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YamlDotNet",
+              "description": "YamlDotNet is a .NET library for YAML",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6181245,
+                "language": "C#",
+                "last_commit": "2026-06-26T22:46:55Z",
+                "owner": "aaubry",
+                "repo": "YamlDotNet",
+                "stars": 2851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "html-agility-pack",
+              "description": "This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89846741,
+                "language": "C#",
+                "last_commit": "2026-06-30T00:44:08Z",
+                "owner": "zzzprojects",
+                "repo": "html-agility-pack",
+                "stars": 2846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NServiceBus",
+              "description": "The most popular service bus for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1056713,
+                "language": "C#",
+                "last_commit": "2026-08-17T02:03:49Z",
+                "owner": "Particular",
+                "repo": "NServiceBus",
+                "stars": 2168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Foundatio",
+              "description": "Pluggable foundation blocks for building distributed apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30369187,
+                "language": "C#",
+                "last_commit": "2026-08-17T20:23:44Z",
+                "owner": "FoundatioFx",
+                "repo": "Foundatio",
+                "stars": 2097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Z.ExtensionMethods",
+              "description": "C# Extension Methods | Over 1000 extension methods",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31603474,
+                "language": "C#",
+                "last_commit": "2025-05-31T18:48:53Z",
+                "owner": "zzzprojects",
+                "repo": "Z.ExtensionMethods",
+                "stars": 1728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NRules",
+              "description": "Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25837937,
+                "language": "C#",
+                "last_commit": "2026-04-03T00:52:53Z",
+                "owner": "NRules",
+                "repo": "NRules",
+                "stars": 1648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluentDocker",
+              "description": "Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54591411,
+                "language": "C#",
+                "last_commit": "2026-07-19T18:39:51Z",
+                "owner": "mariotoffia",
+                "repo": "FluentDocker",
+                "stars": 1388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TimeZoneConverter",
+              "description": "Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80258337,
+                "language": "C#",
+                "last_commit": "2025-12-15T11:29:27Z",
+                "owner": "mattjohnsonpint",
+                "repo": "TimeZoneConverter",
+                "stars": 905
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ExtCore",
+              "description": "ExtCore is a free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47846881,
+                "language": "C#",
+                "last_commit": "2024-06-06T11:11:47Z",
+                "owner": "ExtCore",
+                "repo": "ExtCore",
+                "stars": 785
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoWrapper",
+              "description": "A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208397359,
+                "language": "C#",
+                "last_commit": "2023-07-11T22:14:32Z",
+                "owner": "proudmonkey",
+                "repo": "AutoWrapper",
+                "stars": 670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BundlerMinifier",
+              "description": "Visual Studio extension",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36889151,
+                "language": "C#",
+                "last_commit": "2024-05-03T10:21:02Z",
+                "owner": "madskristensen",
+                "repo": "BundlerMinifier",
+                "stars": 626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Detection",
+              "description": "ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66709443,
+                "language": "C#",
+                "last_commit": "2025-10-22T15:58:15Z",
+                "owner": "wangkanai",
+                "repo": "wangkanai",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reCAPTCHA",
+              "description": "reCAPTCHA 2.0 for ASPNET Core",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61829049,
+                "language": "C#",
+                "last_commit": "2022-06-22T15:29:33Z",
+                "owner": "PaulMiami",
+                "repo": "reCAPTCHA",
+                "stars": 135
+              }
+            }
+          ],
+          "description": "For more such libraries check out awesome-dotnet-core",
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Cryptography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MediatR",
-          "description": "Simple, unambitious mediator implementation in .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-02T13:51:06Z",
-            "owner": "LuckyPennySoftware",
-            "repo": "MediatR",
-            "stars": 11850
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoMapper",
-          "description": "AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-02T13:51:10Z",
-            "owner": "LuckyPennySoftware",
-            "repo": "AutoMapper",
-            "stars": 10193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elsa-core",
-          "description": "A .NET Standard 2.0 Workflows Library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T05:05:50Z",
-            "owner": "elsa-workflows",
-            "repo": "elsa-core",
-            "stars": 7858
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NSwag",
-          "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-21T10:29:45Z",
-            "owner": "RicoSuter",
-            "repo": "NSwag",
-            "stars": 7358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MessagePack-CSharp",
-          "description": "Extremely Fast MessagePack Serializer for C#",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-14T07:14:51Z",
-            "owner": "MessagePack-CSharp",
-            "repo": "MessagePack-CSharp",
-            "stars": 6772
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EventStore",
-          "description": "The open-source, functional database with Complex Event Processing in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T11:36:20Z",
-            "owner": "kurrent-io",
-            "repo": "KurrentDB",
-            "stars": 5842
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CliWrap",
-          "description": "CliWrap is a library for interacting with command line executables in a functional manner. It provides a convenient model for launching external processes, redirecting inputs and outputs, awaiting completion, and handling cancellation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-01T14:34:04Z",
-            "owner": "Tyrrrz",
-            "repo": "CliWrap",
-            "stars": 4996
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "protobuf-net",
-          "description": "Protocol Buffers library for idiomatic .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T17:44:06Z",
-            "owner": "protobuf-net",
-            "repo": "protobuf-net",
-            "stars": 4967
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cake-build",
-          "description": "Cake (C# Make) is a cross platform build automation system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-17T13:09:54Z",
-            "owner": "cake-build",
-            "repo": "cake",
-            "stars": 4184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FluentFTP",
-          "description": "An FTP and FTPS client for .NET & .NET Standard, optimized for speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-05-27T21:47:27Z",
-            "owner": "robinrodricks",
-            "repo": "FluentFTP",
-            "stars": 3391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nodatime",
-          "description": "A better date and time API for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-16T07:35:00Z",
-            "owner": "nodatime",
-            "repo": "nodatime",
-            "stars": 2996
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YamlDotNet",
-          "description": "YamlDotNet is a .NET library for YAML",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-26T22:46:55Z",
-            "owner": "aaubry",
-            "repo": "YamlDotNet",
-            "stars": 2851
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "html-agility-pack",
-          "description": "This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-30T00:44:08Z",
-            "owner": "zzzprojects",
-            "repo": "html-agility-pack",
-            "stars": 2846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NServiceBus",
-          "description": "The most popular service bus for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T02:03:49Z",
-            "owner": "Particular",
-            "repo": "NServiceBus",
-            "stars": 2168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Foundatio",
-          "description": "Pluggable foundation blocks for building distributed apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T20:23:44Z",
-            "owner": "FoundatioFx",
-            "repo": "Foundatio",
-            "stars": 2096
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Z.ExtensionMethods",
-          "description": "C# Extension Methods | Over 1000 extension methods",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-05-31T18:48:53Z",
-            "owner": "zzzprojects",
-            "repo": "Z.ExtensionMethods",
-            "stars": 1727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NRules",
-          "description": "Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-03T00:52:53Z",
-            "owner": "NRules",
-            "repo": "NRules",
-            "stars": 1648
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FluentDocker",
-          "description": "Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-19T18:39:51Z",
-            "owner": "mariotoffia",
-            "repo": "FluentDocker",
-            "stars": 1388
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TimeZoneConverter",
-          "description": "Lightweight libraries to convert between IANA, Windows, Rails, and POSIX time zones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-15T11:29:27Z",
-            "owner": "mattjohnsonpint",
-            "repo": "TimeZoneConverter",
-            "stars": 905
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ExtCore",
-          "description": "ExtCore is a free, open source and cross-platform framework for creating modular and extendable web applications based on ASP.NET Core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-06-06T11:11:47Z",
-            "owner": "ExtCore",
-            "repo": "ExtCore",
-            "stars": 785
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoWrapper",
-          "description": "A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-07-11T22:14:32Z",
-            "owner": "proudmonkey",
-            "repo": "AutoWrapper",
-            "stars": 670
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BundlerMinifier",
-          "description": "Visual Studio extension",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-05-03T10:21:02Z",
-            "owner": "madskristensen",
-            "repo": "BundlerMinifier",
-            "stars": 626
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Detection",
-          "description": "ASP.NET Core Detection with Responsive View for identifying details about client device, browser, engine, platform, & crawler.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-10-22T15:58:15Z",
-            "owner": "wangkanai",
-            "repo": "wangkanai",
-            "stars": 594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reCAPTCHA",
-          "description": "reCAPTCHA 2.0 for ASPNET Core",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-06-22T15:29:33Z",
-            "owner": "PaulMiami",
-            "repo": "reCAPTCHA",
-            "stars": 135
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "awesome-dotnet-core-static-analyzers - Awesome collection of .NET Core Static Analyzers using the .NET Compiler Platform (Roslyn). Also includes a How to guide for using these analyzers and sample project with Cake Build Script to integrate in Continuous integration.\nVisit my site Share Tech Links for curated list of tech related interesting blog links.\nPull requests are welcome for including new items in this list.",
-      "items": [],
-      "title": "Code Quality - Static Analyzers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:37:21.213Z",
+    "last_updated": "2026-08-19T10:36:58.837Z",
     "original_repository": "bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core",
     "original_repository_sha": "aa235f7ef638598af54e8bab1580fb1901bbcfd9",
     "enhanced_repository": "enhansome/enhansome-libraries-to-build-sass-application-dotnet-core",
