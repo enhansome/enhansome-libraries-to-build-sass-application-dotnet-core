@@ -15,7 +15,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48459
+            "stars": 48460
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-16T18:39:03Z",
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20467
+            "stars": 20468
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T16:32:45Z",
             "owner": "fission",
             "repo": "fission",
-            "stars": 8902
+            "stars": 8903
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-19T09:20:25Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
-            "stars": 8157
+            "stars": 8159
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-16T16:57:46Z",
             "owner": "dotnet",
             "repo": "BenchmarkDotNet",
-            "stars": 11474
+            "stars": 11475
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2025-08-03T00:31:11Z",
             "owner": "MiniProfiler",
             "repo": "dotnet",
-            "stars": 3009
+            "stars": 3010
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-03-14T06:29:09Z",
             "owner": "benaadams",
             "repo": "Ben.Demystifier",
-            "stars": 2866
+            "stars": 2867
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2024-04-11T13:14:54Z",
             "owner": "prometheus-net",
             "repo": "prometheus-net",
-            "stars": 2093
+            "stars": 2094
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-19T06:36:09Z",
             "owner": "StackExchange",
             "repo": "StackExchange.Redis",
-            "stars": 6194
+            "stars": 6195
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-17T05:05:52Z",
             "owner": "dotnet",
             "repo": "yarp",
-            "stars": 9597
+            "stars": 9598
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-19T10:01:31Z",
             "owner": "domaindrivendev",
             "repo": "Swashbuckle.AspNetCore",
-            "stars": 5495
+            "stars": 5496
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-07-20T12:19:41Z",
             "owner": "HangfireIO",
             "repo": "Hangfire",
-            "stars": 10118
+            "stars": 10119
           }
         },
         {
@@ -576,10 +576,10 @@
             "archived": false,
             "id": 1208824,
             "language": "C#",
-            "last_commit": "2026-08-15T22:03:49Z",
+            "last_commit": "2026-08-19T11:04:00Z",
             "owner": "quartznet",
             "repo": "quartznet",
-            "stars": 7067
+            "stars": 7068
           }
         },
         {
@@ -837,7 +837,7 @@
             "last_commit": "2026-08-18T18:54:33Z",
             "owner": "DapperLib",
             "repo": "Dapper",
-            "stars": 18366
+            "stars": 18367
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-18T15:43:25Z",
             "owner": "mganss",
             "repo": "HtmlSanitizer",
-            "stars": 1708
+            "stars": 1707
           }
         },
         {
@@ -1061,7 +1061,7 @@
                 "last_commit": "2026-07-02T13:51:10Z",
                 "owner": "LuckyPennySoftware",
                 "repo": "AutoMapper",
-                "stars": 10193
+                "stars": 10194
               }
             },
             {
@@ -1076,7 +1076,7 @@
                 "last_commit": "2026-08-18T22:12:22Z",
                 "owner": "elsa-workflows",
                 "repo": "elsa-core",
-                "stars": 7858
+                "stars": 7859
               }
             },
             {
@@ -1091,7 +1091,7 @@
                 "last_commit": "2026-06-21T10:29:45Z",
                 "owner": "RicoSuter",
                 "repo": "NSwag",
-                "stars": 7358
+                "stars": 7359
               }
             },
             {
@@ -1121,7 +1121,7 @@
                 "last_commit": "2026-08-19T09:49:35Z",
                 "owner": "kurrent-io",
                 "repo": "KurrentDB",
-                "stars": 5843
+                "stars": 5844
               }
             },
             {
@@ -1133,7 +1133,7 @@
                 "archived": false,
                 "id": 86743880,
                 "language": "C#",
-                "last_commit": "2026-08-01T14:34:04Z",
+                "last_commit": "2026-08-19T12:31:11Z",
                 "owner": "Tyrrrz",
                 "repo": "CliWrap",
                 "stars": 4996
@@ -1148,10 +1148,10 @@
                 "archived": false,
                 "id": 20878802,
                 "language": "C#",
-                "last_commit": "2026-08-19T10:28:24Z",
+                "last_commit": "2026-08-19T12:21:09Z",
                 "owner": "protobuf-net",
                 "repo": "protobuf-net",
-                "stars": 4967
+                "stars": 4968
               }
             },
             {
@@ -1166,7 +1166,7 @@
                 "last_commit": "2026-07-17T13:09:54Z",
                 "owner": "cake-build",
                 "repo": "cake",
-                "stars": 4184
+                "stars": 4185
               }
             },
             {
@@ -1196,7 +1196,7 @@
                 "last_commit": "2026-07-16T07:35:00Z",
                 "owner": "nodatime",
                 "repo": "nodatime",
-                "stars": 2996
+                "stars": 2997
               }
             },
             {
@@ -1256,7 +1256,7 @@
                 "last_commit": "2026-08-17T20:23:44Z",
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
-                "stars": 2097
+                "stars": 2098
               }
             },
             {
@@ -1404,8 +1404,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:36:58.837Z",
+    "last_updated": "2026-08-19T12:38:01.657Z",
     "original_repository": "bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core",
+    "original_repository_id": 282454247,
     "original_repository_sha": "aa235f7ef638598af54e8bab1580fb1901bbcfd9",
     "enhanced_repository": "enhansome/enhansome-libraries-to-build-sass-application-dotnet-core",
     "enhanced_repository_description": null,
