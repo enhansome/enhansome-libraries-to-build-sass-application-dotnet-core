@@ -15,7 +15,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48468
+            "stars": 48467
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-29T14:44:09Z",
             "owner": "MoienTajik",
             "repo": "AspNetCore-Developer-Roadmap",
-            "stars": 19632
+            "stars": 19631
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 66050533,
             "language": "Go",
-            "last_commit": "2026-08-24T09:38:32Z",
+            "last_commit": "2026-08-24T12:26:06Z",
             "owner": "fission",
             "repo": "fission",
-            "stars": 8910
+            "stars": 8911
           }
         },
         {
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 26884725,
             "language": "C#",
-            "last_commit": "2026-08-24T07:40:40Z",
+            "last_commit": "2026-08-24T14:08:58Z",
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8164
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 17748183,
             "language": "C#",
-            "last_commit": "2026-08-21T10:31:40Z",
+            "last_commit": "2026-08-24T14:26:49Z",
             "owner": "StackExchange",
             "repo": "StackExchange.Redis",
             "stars": 6195
@@ -693,7 +693,7 @@
             "archived": false,
             "id": 11718424,
             "language": "C#",
-            "last_commit": "2026-08-23T13:59:17Z",
+            "last_commit": "2026-08-24T14:24:38Z",
             "owner": "fluentassertions",
             "repo": "fluentassertions",
             "stars": 3817
@@ -837,7 +837,7 @@
             "last_commit": "2026-08-20T14:20:52Z",
             "owner": "DapperLib",
             "repo": "Dapper",
-            "stars": 18369
+            "stars": 18370
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-08-24T07:52:49Z",
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 32965
+            "stars": 32966
           }
         },
         {
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 10942116,
             "language": "C#",
-            "last_commit": "2026-08-24T09:41:03Z",
+            "last_commit": "2026-08-24T13:46:33Z",
             "owner": "mganss",
             "repo": "HtmlSanitizer",
             "stars": 1707
@@ -1073,7 +1073,7 @@
                 "archived": false,
                 "id": 151148482,
                 "language": "C#",
-                "last_commit": "2026-08-24T09:05:18Z",
+                "last_commit": "2026-08-24T14:27:00Z",
                 "owner": "elsa-workflows",
                 "repo": "elsa-core",
                 "stars": 7864
@@ -1106,7 +1106,7 @@
                 "last_commit": "2026-08-20T05:39:04Z",
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6772
+                "stars": 6773
               }
             },
             {
@@ -1118,7 +1118,7 @@
                 "archived": false,
                 "id": 5844474,
                 "language": "C#",
-                "last_commit": "2026-08-24T10:41:24Z",
+                "last_commit": "2026-08-24T13:34:01Z",
                 "owner": "kurrent-io",
                 "repo": "KurrentDB",
                 "stars": 5848
@@ -1398,13 +1398,35 @@
           "description": "For more such libraries check out awesome-dotnet-core",
           "node_type": "group",
           "title": "Misc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-dotnet-core-static-analyzers",
+              "description": "Awesome collection of .NET Core Static Analyzers using the .NET Compiler Platform (Roslyn). Also includes a How to guide for using these analyzers and sample project with Cake Build Script to integrate in Continuous integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278883679,
+                "language": "PowerShell",
+                "last_commit": "2020-07-13T15:16:08Z",
+                "owner": "bharatdwarkani",
+                "repo": "awesome-dotnet-core-static-analyzers",
+                "stars": 47
+              }
+            }
+          ],
+          "description": "Visit my site Share Tech Links for curated list of tech related interesting blog links.\nPull requests are welcome for including new items in this list.",
+          "node_type": "group",
+          "title": "Code Quality - Static Analyzers"
         }
       ],
       "title": "Cryptography"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:44:29.041Z",
+    "last_updated": "2026-08-24T14:28:15.509Z",
     "original_repository": "bharatdwarkani/awesome-libraries-to-build-sass-application-dotnet-core",
     "original_repository_id": 282454247,
     "original_repository_sha": "aa235f7ef638598af54e8bab1580fb1901bbcfd9",
