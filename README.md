@@ -2,17 +2,17 @@
 
 #### Architecture references
 
-* [**Design Patterns for Humans**](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,836 | 🐛 16 | 📅 2024-12-02
+* [**Design Patterns for Humans**](https://github.com/kamranahmedse/design-patterns-for-humans) ⭐ 48,837 | 🐛 16 | 📅 2024-12-02
 * [**ASP.NET Core Developer Roadmap**](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) ⭐ 19,635 | 🐛 3 | 📅 2026-01-29
 * [**Awesome collection of Sample architecture projects and real time applications**](https://github.com/bharatdwarkani/awesome-dotnet-core-applications) ⭐ 603 | 🐛 3 | 📅 2021-12-18
 * [**Microsoft Cloud Design Patterns**](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 #### Project templates / Frameworks
 
-* [**Clean Architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,524 | 🐛 20 | 🌐 C# | 📅 2026-09-03 - This is a solution template for creating a Single Page App (SPA) with Angular and ASP.NET Core following the principles of Clean Architecture.
+* [**Clean Architecture**](https://github.com/jasontaylordev/CleanArchitecture) ⭐ 20,524 | 🐛 20 | 🌐 C# | 📅 2026-09-04 - This is a solution template for creating a Single Page App (SPA) with Angular and ASP.NET Core following the principles of Clean Architecture.
 * [**fission**](https://github.com/fission/fission) ⭐ 8,914 | 🐛 46 | 🌐 Go | 📅 2026-09-02 - Fast and Simple Serverless Functions for Kubernetes
 * [**MassTransit**](https://github.com/MassTransit/MassTransit) ⭐ 7,799 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - Distributed Application Framework for .NET
-* [**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,487 | 🐛 51 | 🌐 C# | 📅 2026-09-04 - Project templates with batteries included, providing the minimum amount of code required to get you going
+* [**Dotnet-Boxed**](https://github.com/Dotnet-Boxed/Templates) ⭐ 3,484 | 🐛 51 | 🌐 C# | 📅 2026-09-04 - Project templates with batteries included, providing the minimum amount of code required to get you going
 * [**starter-kit**](https://github.com/ngx-rocket/starter-kit) ⭐ 1,261 | 🐛 1 | 🌐 TypeScript | 📅 2022-09-07 - Web project starter kit including modern tools and workflow based on angular-cli, best practices from the community, a scalable base template and a good learning base.
 * [**abp**](https://abp.io/) - ABP is a complete architecture and strong infrastructure to create modern web applications! Follows best practices and conventions to provide you a SOLID development experience.
 
@@ -20,7 +20,7 @@ Also, I suggest watching this [**video**](https://www.youtube.com/watch?v=5OtUm1
 
 #### Multitenancy
 
-* [**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,173 | 🐛 846 | 🌐 C# | 📅 2026-09-04 - Orchard Core Framework: An application framework for building modular, multi-tenant applications on ASP.NET Core.
+* [**OrchardCore**](https://github.com/OrchardCMS/OrchardCore) ⭐ 8,173 | 🐛 845 | 🌐 C# | 📅 2026-09-05 - Orchard Core Framework: An application framework for building modular, multi-tenant applications on ASP.NET Core.
 * [**Finbuckle.MultiTenant**](https://github.com/Finbuckle/Finbuckle.MultiTenant) ⭐ 1,618 | 🐛 34 | 🌐 C# | 📅 2026-08-20 - Finbuckle.MultiTenant is a multitenancy library for ASP.NET Core. It provides functionality for tenant resolution, per-tenant app configuration, and per-tenant data isolation.
 * [**saaskit**](https://github.com/saaskit/saaskit) ⭐ 1,126 | 🐛 31 | 🌐 C# | 📅 2023-08-15 - SaasKit is a .NET toolkit for building SaaS (Software As A Service) applications.
 * [**cloudscribe**](https://github.com/cloudscribe/cloudscribe) - cloudscribe is a related set of projects and components for building cross platform web applications on ASP.NET Core. Get the big picture at cloudscribe.com
@@ -30,12 +30,12 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### Logging / Monitoring
 
-* [**BenchmarkDotNet**](https://github.com/dotnet/BenchmarkDotNet) ⭐ 11,488 | 🐛 179 | 🌐 C# | 📅 2026-08-30 - Powerful .NET library for benchmarking
-* [**Serilog**](https://github.com/serilog/serilog) ⭐ 8,035 | 🐛 18 | 🌐 C# | 📅 2026-07-31 - Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms.
-* [**NLog**](https://github.com/NLog/NLog) ⭐ 6,545 | 🐛 52 | 🌐 C# | 📅 2026-09-04 -  NLog is a free logging platform for .NET with rich log routing and management capabilities. It makes it easy to produce and manage high-quality logs for your application regardless of its size or complexity.
-* [**MiniProfiler**](https://github.com/MiniProfiler/dotnet) ⭐ 3,005 | 🐛 75 | 🌐 C# | 📅 2025-08-03 - A simple but effective mini-profiler for ASP.NET (and Core) websites
+* [**BenchmarkDotNet**](https://github.com/dotnet/BenchmarkDotNet) ⭐ 11,489 | 🐛 178 | 🌐 C# | 📅 2026-09-05 - Powerful .NET library for benchmarking
+* [**Serilog**](https://github.com/serilog/serilog) ⭐ 8,036 | 🐛 18 | 🌐 C# | 📅 2026-07-31 - Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms.
+* [**NLog**](https://github.com/NLog/NLog) ⭐ 6,546 | 🐛 51 | 🌐 C# | 📅 2026-09-05 -  NLog is a free logging platform for .NET with rich log routing and management capabilities. It makes it easy to produce and manage high-quality logs for your application regardless of its size or complexity.
+* [**MiniProfiler**](https://github.com/MiniProfiler/dotnet) ⭐ 3,004 | 🐛 75 | 🌐 C# | 📅 2025-08-03 - A simple but effective mini-profiler for ASP.NET (and Core) websites
 * [**Ben.Demystifier**](https://github.com/benaadams/Ben.Demystifier) ⭐ 2,865 | 🐛 56 | 🌐 C# | 📅 2024-03-14 - High performance understanding for stack traces (Make error logs more productive)
-* [**Audit.NET**](https://github.com/thepirat000/Audit.NET) ⭐ 2,647 | 🐛 2 | 🌐 C# | 📅 2026-08-19 - An extensible framework to audit executing operations in .NET and .NET Core.
+* [**Audit.NET**](https://github.com/thepirat000/Audit.NET) ⭐ 2,647 | 🐛 0 | 🌐 C# | 📅 2026-08-19 - An extensible framework to audit executing operations in .NET and .NET Core.
 * [**prometheus-net**](https://github.com/prometheus-net/prometheus-net) ⭐ 2,096 | 🐛 139 | 🌐 C# | 📅 2024-04-11 - .NET Standard library to instrument apps for the Prometheus metrics and monitoring system
 * [**AuditLogging**](https://github.com/skoruba/AuditLogging) ⭐ 121 | 🐛 8 | 🌐 C# | 📅 2026-02-23 - Simple audit logging for .NET Core with EntityFramework Core
 * [**Exceptionless**](https://exceptionless.com/) - It provides real-time error reporting for your JavaScript, Node, .NET Core, ASP.NET, Web API, WebForms, WPF, Console, and MVC apps.
@@ -53,12 +53,12 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### Feature Management
 
-* [**FeatureManagement-Dotnet**](https://github.com/microsoft/FeatureManagement-Dotnet) ⭐ 1,181 | 🐛 48 | 🌐 C# | 📅 2026-09-01 -  Feature flags provide a way for ASP.NET Core applications to turn features on or off dynamically.
+* [**FeatureManagement-Dotnet**](https://github.com/microsoft/FeatureManagement-Dotnet) ⭐ 1,181 | 🐛 47 | 🌐 C# | 📅 2026-09-04 -  Feature flags provide a way for ASP.NET Core applications to turn features on or off dynamically.
 * [**FeatureSwitch**](https://github.com/valdisiljuconoks/FeatureSwitch) ⭐ 56 | 🐛 87 | 🌐 C# | 📅 2024-01-18 - FeatureSwitch is library that should reduce amount of time and code required to implement feature switching in your projects.
 
 #### Validation
 
-* [**FluentValidation**](https://github.com/FluentValidation/FluentValidation) ⭐ 9,753 | 🐛 3 | 🌐 C# | 📅 2026-08-12 -  A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
+* [**FluentValidation**](https://github.com/FluentValidation/FluentValidation) ⭐ 9,752 | 🐛 3 | 🌐 C# | 📅 2026-08-12 -  A small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 
 #### Caching
 
@@ -68,19 +68,19 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### API Gateway / Reverse Proxy
 
-* [**YARP**](https://github.com/microsoft/reverse-proxy) ⭐ 9,608 | 🐛 190 | 🌐 C# | 📅 2026-08-31 (preview) - A Reverse Proxy by microsoft
+* [**YARP**](https://github.com/microsoft/reverse-proxy) ⭐ 9,608 | 🐛 191 | 🌐 C# | 📅 2026-08-31 (preview) - A Reverse Proxy by microsoft
 * [**Ocelot**](https://github.com/ThreeMammals/Ocelot) ⭐ 8,714 | 🐛 56 | 🌐 C# | 📅 2026-09-03 - Ocelot is a .NET API Gateway.
 * [**ProxyKit**](https://github.com/proxykit/ProxyKit) ⚠️ Archived - toolkit to create code-first HTTP Reverse Proxies hosted in ASP.NET Core as middleware.
 
 #### Service Communication
 
-* [**Polly**](https://github.com/App-vNext/Polly) ⭐ 14,236 | 🐛 3 | 🌐 C# | 📅 2026-08-28 - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+* [**Polly**](https://github.com/App-vNext/Polly) ⭐ 14,235 | 🐛 3 | 🌐 C# | 📅 2026-09-04 - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 #### Documentation
 
-* [**redoc**](https://github.com/Redocly/redoc) ⭐ 25,899 | 🐛 451 | 🌐 TypeScript | 📅 2026-09-03 - OpenAPI/Swagger-generated API Reference Documentation
+* [**redoc**](https://github.com/Redocly/redoc) ⭐ 25,900 | 🐛 451 | 🌐 TypeScript | 📅 2026-09-03 - OpenAPI/Swagger-generated API Reference Documentation
 * [**Swashbuckle.AspNetCore**](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐ 5,499 | 🐛 177 | 🌐 C# | 📅 2026-09-02 - Swagger tooling for API's built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models.
-* [**docsify-dotnet-core**](https://github.com/bharatdwarkani/docsify-dotnet-core) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2019-10-26 - a sample based on [docsify](https://github.com/docsifyjs/docsify) ⭐ 31,497 | 🐛 98 | 🌐 JavaScript | 📅 2026-09-04 static help document generator based on markdown.
+* [**docsify-dotnet-core**](https://github.com/bharatdwarkani/docsify-dotnet-core) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2019-10-26 - a sample based on [docsify](https://github.com/docsifyjs/docsify) ⭐ 31,497 | 🐛 96 | 🌐 JavaScript | 📅 2026-09-05 static help document generator based on markdown.
 
 #### Schedulers
 
@@ -96,9 +96,9 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### Unit or Integration Testing
 
-* [**moq**](https://github.com/moq/moq) ⭐ 6,402 | 🐛 22 | 🌐 C# | 📅 2026-08-27 - The most popular and friendly mocking framework for .NET
+* [**moq**](https://github.com/moq/moq) ⭐ 6,400 | 🐛 22 | 🌐 C# | 📅 2026-08-27 - The most popular and friendly mocking framework for .NET
 * [**xunit**](https://github.com/xunit/xunit) ⭐ 4,601 | 🐛 21 | 🌐 C# | 📅 2026-09-01 - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
-* [**fluentassertions**](https://github.com/fluentassertions/fluentassertions) ⭐ 3,812 | 🐛 66 | 🌐 C# | 📅 2026-09-03 - Fluent API for asserting the results of unit tests that targets
+* [**fluentassertions**](https://github.com/fluentassertions/fluentassertions) ⭐ 3,813 | 🐛 65 | 🌐 C# | 📅 2026-09-04 - Fluent API for asserting the results of unit tests that targets
 * [**AutoFixture**](https://github.com/AutoFixture/AutoFixture) ⭐ 3,538 | 🐛 59 | 🌐 C# | 📅 2026-07-31 - It is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests
 * [**Respawn**](https://github.com/jbogard/Respawn) ⭐ 3,020 | 🐛 15 | 🌐 C# | 📅 2026-01-19 - Intelligent database cleaner for integration tests
 * [**Netling**](https://github.com/hallatore/Netling) ⭐ 1,347 | 🐛 13 | 🌐 C# | 📅 2022-12-05 - Netling is a load tester client for easy web testing.
@@ -111,8 +111,8 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### ORM
 
-* [**Dapper**](https://github.com/StackExchange/Dapper) ⭐ 18,375 | 🐛 546 | 🌐 C# | 📅 2026-08-20 -  a simple object mapper for .Net by Stack Overflow
-* [**RepoDb**](https://github.com/mikependon/RepoDb) ⭐ 1,896 | 🐛 159 | 🌐 C# | 📅 2026-09-04 -  A hybrid ORM library for .NET.
+* [**Dapper**](https://github.com/StackExchange/Dapper) ⭐ 18,376 | 🐛 546 | 🌐 C# | 📅 2026-08-20 -  a simple object mapper for .Net by Stack Overflow
+* [**RepoDb**](https://github.com/mikependon/RepoDb) ⭐ 1,896 | 🐛 158 | 🌐 C# | 📅 2026-09-05 -  A hybrid ORM library for .NET.
 * [**Insight.Database**](https://github.com/jonwagner/Insight.Database) ⭐ 914 | 🐛 5 | 🌐 C# | 📅 2026-05-29 - Fast, lightweight .NET micro-ORM
 * [**Dapper-Plus**](https://github.com/zzzprojects/Dapper-Plus) ⭐ 428 | 🐛 2 | 🌐 C# | 📅 2026-08-11 -  Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET
 * [**dynamic-linq-query-builder**](https://github.com/castle-it/dynamic-linq-query-builder) ⭐ 267 | 🐛 13 | 🌐 C# | 📅 2026-01-27 - A truly generic and dynamic linq query builder to compliment jQuery QueryBuilder and other dynamic linq query generation needs.
@@ -120,7 +120,7 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### Security
 
-* [**CheatSheetSeries**](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DotNet_Security_Cheat_Sheet.md) ⭐ 33,078 | 🐛 71 | 🌐 Python | 📅 2026-09-04 - Basic .NET security tips for developers.
+* [**CheatSheetSeries**](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DotNet_Security_Cheat_Sheet.md) ⭐ 33,084 | 🐛 57 | 🌐 Python | 📅 2026-09-05 - Basic .NET security tips for developers.
 * [**AspNetCoreRateLimit**](https://github.com/stefanprodan/AspNetCoreRateLimit) ⭐ 3,167 | 🐛 185 | 🌐 C# | 📅 2024-07-26 - ASP.NET Core rate limiting middleware
 * [**HtmlSanitizer**](https://github.com/mganss/HtmlSanitizer) ⭐ 1,707 | 🐛 16 | 🌐 C# | 📅 2026-09-04 - Cleans HTML to avoid XSS attacks
 * [**NWebsec**](https://github.com/NWebsec/NWebsec) ⭐ 550 | 🐛 48 | 🌐 C# | 📅 2023-03-03 - Security libraries for ASP.NET
@@ -134,16 +134,16 @@ You can also check out blog posts on multitenancy by [**Ben Foster**](https://be
 
 #### Misc
 
-* [**MediatR**](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 2 | 🌐 C# | 📅 2026-07-02 - Simple, unambitious mediator implementation in .NET
-* [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) ⭐ 10,190 | 🐛 7 | 🌐 C# | 📅 2026-09-04 - AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.
-* [**elsa-core**](https://github.com/elsa-workflows/elsa-core) ⭐ 7,874 | 🐛 785 | 🌐 C# | 📅 2026-09-01 - A .NET Standard 2.0 Workflows Library
+* [**MediatR**](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 0 | 🌐 C# | 📅 2026-07-02 - Simple, unambitious mediator implementation in .NET
+* [**AutoMapper**](https://github.com/AutoMapper/AutoMapper) ⭐ 10,189 | 🐛 12 | 🌐 C# | 📅 2026-09-04 - AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another.
+* [**elsa-core**](https://github.com/elsa-workflows/elsa-core) ⭐ 7,873 | 🐛 783 | 🌐 C# | 📅 2026-09-05 - A .NET Standard 2.0 Workflows Library
 * [**NSwag**](https://github.com/RicoSuter/NSwag) ⭐ 7,361 | 🐛 2,055 | 🌐 C# | 📅 2026-06-21 - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
 * [**MessagePack-CSharp**](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,773 | 🐛 146 | 🌐 C# | 📅 2026-09-03 - Extremely Fast MessagePack Serializer for C#
-* [**EventStore**](https://github.com/EventStore/EventStore) ⭐ 5,851 | 🐛 151 | 🌐 C# | 📅 2026-09-04 - The open-source, functional database with Complex Event Processing in JavaScript.
+* [**EventStore**](https://github.com/EventStore/EventStore) ⭐ 5,850 | 🐛 151 | 🌐 C# | 📅 2026-09-04 - The open-source, functional database with Complex Event Processing in JavaScript.
 * [**CliWrap**](https://github.com/Tyrrrz/CliWrap) ⭐ 4,994 | 🐛 3 | 🌐 C# | 📅 2026-09-01 - CliWrap is a library for interacting with command line executables in a functional manner. It provides a convenient model for launching external processes, redirecting inputs and outputs, awaiting completion, and handling cancellation.
-* [**protobuf-net**](https://github.com/protobuf-net/protobuf-net) ⭐ 4,969 | 🐛 533 | 🌐 C# | 📅 2026-09-01 - Protocol Buffers library for idiomatic .NET
-* [**cake-build**](https://github.com/cake-build/cake) ⭐ 4,188 | 🐛 248 | 🌐 C# | 📅 2026-07-17 - Cake (C# Make) is a cross platform build automation system.
-* [**FluentFTP**](https://github.com/robinrodricks/FluentFTP/) ⭐ 3,394 | 🐛 21 | 🌐 C# | 📅 2026-08-31 - An FTP and FTPS client for .NET & .NET Standard, optimized for speed.
+* [**protobuf-net**](https://github.com/protobuf-net/protobuf-net) ⭐ 4,971 | 🐛 537 | 🌐 C# | 📅 2026-09-04 - Protocol Buffers library for idiomatic .NET
+* [**cake-build**](https://github.com/cake-build/cake) ⭐ 4,187 | 🐛 248 | 🌐 C# | 📅 2026-07-17 - Cake (C# Make) is a cross platform build automation system.
+* [**FluentFTP**](https://github.com/robinrodricks/FluentFTP/) ⭐ 3,394 | 🐛 22 | 🌐 C# | 📅 2026-08-31 - An FTP and FTPS client for .NET & .NET Standard, optimized for speed.
 * [**nodatime**](https://github.com/nodatime/nodatime) ⭐ 3,000 | 🐛 34 | 🌐 C# | 📅 2026-07-16 - A better date and time API for .NET
 * [**YamlDotNet**](https://github.com/aaubry/YamlDotNet) ⭐ 2,862 | 🐛 142 | 🌐 C# | 📅 2026-06-26 -  YamlDotNet is a .NET library for YAML
 * [**html-agility-pack**](https://github.com/zzzprojects/html-agility-pack) ⭐ 2,848 | 🐛 81 | 🌐 C# | 📅 2026-08-24 - This is an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
@@ -171,4 +171,4 @@ Visit my site [**Share Tech Links**](https://sharetechlinks.com/)  for curated l
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
