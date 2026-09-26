@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48879,
+            "stars": 48880,
             "topics": [
               "architecture",
               "computer-science",
@@ -108,7 +108,7 @@
             "open_issues": 20,
             "owner": "jasontaylordev",
             "repo": "CleanArchitecture",
-            "stars": 20592,
+            "stars": 20595,
             "topics": [
               "angular",
               "asp-net",
@@ -175,7 +175,7 @@
             "open_issues": 2,
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7803,
+            "stars": 7802,
             "topics": [
               "azure-service-bus",
               "c-sharp",
@@ -205,7 +205,7 @@
             "open_issues": 51,
             "owner": "Dotnet-Boxed",
             "repo": "Templates",
-            "stars": 3483,
+            "stars": 3484,
             "topics": [
               "api",
               "asp-net",
@@ -278,8 +278,8 @@
             "id": 26884725,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T08:51:12Z",
-            "open_issues": 854,
+            "last_commit": "2026-09-26T06:07:25Z",
+            "open_issues": 853,
             "owner": "OrchardCMS",
             "repo": "OrchardCore",
             "stars": 8187,
@@ -311,7 +311,7 @@
             "open_issues": 34,
             "owner": "Finbuckle",
             "repo": "Finbuckle.MultiTenant",
-            "stars": 1629,
+            "stars": 1628,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -364,7 +364,7 @@
             "open_issues": 165,
             "owner": "dotnet",
             "repo": "BenchmarkDotNet",
-            "stars": 11496,
+            "stars": 11497,
             "topics": [
               "benchmark",
               "benchmarking",
@@ -393,7 +393,7 @@
             "open_issues": 21,
             "owner": "serilog",
             "repo": "serilog",
-            "stars": 8041,
+            "stars": 8042,
             "topics": [
               "serilog"
             ]
@@ -413,7 +413,7 @@
             "language": "C#",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-21T16:58:41Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "NLog",
             "repo": "NLog",
             "stars": 6547,
@@ -774,7 +774,7 @@
             "open_issues": 13,
             "owner": "MichaCo",
             "repo": "CacheManager",
-            "stars": 2420,
+            "stars": 2421,
             "topics": [
               "c-sharp",
               "cache",
@@ -916,7 +916,7 @@
             "open_issues": 444,
             "owner": "Redocly",
             "repo": "redoc",
-            "stars": 25926,
+            "stars": 25924,
             "topics": [
               "api-documentation",
               "documentation-generator",
@@ -997,7 +997,7 @@
             "open_issues": 945,
             "owner": "HangfireIO",
             "repo": "Hangfire",
-            "stars": 10142,
+            "stars": 10143,
             "topics": [
               "background-jobs",
               "background-thread",
@@ -1090,7 +1090,7 @@
             "id": 14999623,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-14T12:10:38Z",
+            "last_commit": "2026-09-26T12:11:38Z",
             "open_issues": 10,
             "owner": "jstedfast",
             "repo": "MailKit",
@@ -1213,7 +1213,7 @@
             "id": 9891249,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T15:05:57Z",
+            "last_commit": "2026-09-25T17:21:31Z",
             "open_issues": 16,
             "owner": "xunit",
             "repo": "xunit",
@@ -1243,7 +1243,7 @@
             "open_issues": 66,
             "owner": "fluentassertions",
             "repo": "fluentassertions",
-            "stars": 3814,
+            "stars": 3813,
             "topics": [
               "assertions",
               "bdd-style",
@@ -1494,7 +1494,7 @@
             "open_issues": 552,
             "owner": "DapperLib",
             "repo": "Dapper",
-            "stars": 18395,
+            "stars": 18398,
             "topics": [
               "ado-net",
               "dapper",
@@ -1515,7 +1515,7 @@
             "id": 128952316,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T05:59:25Z",
+            "last_commit": "2026-09-26T11:49:16Z",
             "open_issues": 161,
             "owner": "mikependon",
             "repo": "RepoDB",
@@ -1636,7 +1636,7 @@
             "open_issues": 56,
             "owner": "OWASP",
             "repo": "CheatSheetSeries",
-            "stars": 33303,
+            "stars": 33314,
             "topics": [
               "application-security",
               "appsec",
@@ -1838,7 +1838,7 @@
                 "open_issues": 3,
                 "owner": "LuckyPennySoftware",
                 "repo": "MediatR",
-                "stars": 11859,
+                "stars": 11857,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1878,11 +1878,11 @@
                 "id": 151148482,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T14:58:04Z",
-                "open_issues": 843,
+                "last_commit": "2026-09-26T05:45:25Z",
+                "open_issues": 851,
                 "owner": "elsa-workflows",
                 "repo": "elsa-core",
-                "stars": 7888,
+                "stars": 7890,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1942,7 +1942,7 @@
                 "open_issues": 149,
                 "owner": "MessagePack-CSharp",
                 "repo": "MessagePack-CSharp",
-                "stars": 6788,
+                "stars": 6789,
                 "topics": [
                   "c-sharp",
                   "lz4",
@@ -2054,8 +2054,8 @@
                 "id": 20094029,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-25T15:01:12Z",
-                "open_issues": 218,
+                "last_commit": "2026-09-26T13:12:18Z",
+                "open_issues": 220,
                 "owner": "cake-build",
                 "repo": "cake",
                 "stars": 4190,
@@ -2172,7 +2172,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-24T15:12:52Z",
-                "open_issues": 82,
+                "open_issues": 83,
                 "owner": "zzzprojects",
                 "repo": "html-agility-pack",
                 "stars": 2851,
@@ -2198,7 +2198,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T13:56:51Z",
+                "last_commit": "2026-09-26T05:20:15Z",
                 "open_issues": 290,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2224,7 +2224,7 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T18:43:33Z",
+                "last_commit": "2026-09-26T02:48:55Z",
                 "open_issues": 17,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
@@ -2297,7 +2297,7 @@
                 "open_issues": 16,
                 "owner": "NRules",
                 "repo": "NRules",
-                "stars": 1652,
+                "stars": 1653,
                 "topics": [
                   "c-sharp",
                   "dsl",
@@ -2326,7 +2326,7 @@
                 "open_issues": 5,
                 "owner": "mariotoffia",
                 "repo": "FluentDocker",
-                "stars": 1388,
+                "stars": 1387,
                 "topics": [
                   "builder",
                   "compose",
@@ -2524,7 +2524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:07:46.789Z",
+    "last_updated": "2026-09-26T14:19:34.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome collection of libraries to build Software as a Service (SaaS) web application using ASP.NET Core",
